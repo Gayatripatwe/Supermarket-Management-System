@@ -1,9 +1,0 @@
-POST https://localhost:7160/api/Category
-
-Content-Type: application/json
-
-{
-  "id": 5,
-  "name":"Bevrages",
-  "discription":"here you get all the bevrages. hot and cold"
-}
